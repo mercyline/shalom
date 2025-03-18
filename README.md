@@ -1,3 +1,3 @@
 # shalom
 Student accommodation services website
-by Mercylline Khisa
+by Mercyline Khisa
